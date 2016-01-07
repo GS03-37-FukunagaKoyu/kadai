@@ -1,20 +1,34 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title></title>
+<title>アンケート</title>
+<style>
+    body{
+        text-align: center;
+    }
+</style>
 </head>
 <body>
+    <header>
+        <h1>GSアンケート</h1>
+    </header>
+    <div id="main">
+        <p>アンケートに答えよう</p>
+    </div>
+    <P><a href="input_enq.php">アンケート入力ページへ</a></P>
+    
+    
+
+    
+    
+<!--
 <ul>
-<li><a href="get.php">form(get)</a></li>
-<li><a href="post.php">form(post)</a></li>
-<li><a href="hensu.php">変数</a></li>
-<li><a href="hairetsu.php">配列</a></li>
-<li><a href="seigyo.php">制御構文</a></li>
-<li><a href="kansu.php">関数</a></li>
+<li><a href="input_enq.php"></a>アンケート入力ページ</li>
+<li><a href="comfirm_enq.php"></a>アンケート入力確認ページ</li>
+<li><a href="input_finish.php"></a>アンケート入力thanksページ</li>
+<li><a href="show_enp.php"></a>アンケート表示ページ</li>
 </ul>
-<ul>
-<li><a href="write.php">ファイル書き込み</a></li>
-<li><a href="read.php">ファイル読み込む</a></li>
-</ul>
+-->
+
 </body>
 </html>
